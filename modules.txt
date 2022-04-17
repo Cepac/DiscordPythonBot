@@ -1,0 +1,5 @@
+discord
+discord.py
+datetime
+mysql.connector
+configparser
